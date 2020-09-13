@@ -1,2 +1,5 @@
 # Classification-Clustering
-Practising on WordClouds,Classification and Clustering on dataset of news (categories=(business, entertainment, politics, sport, tech))
+Practising on WordClouds,Classification and Clustering on news dataset.
+
+# Summary
+(categories=(business, entertainment, politics, sport, tech))
