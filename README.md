@@ -1,7 +1,7 @@
 # Classification-Clustering
 The purpose of this project is to be familiarized with the basic steps of the process followed for the application of data mining techniques, namely: collection, pre-processing/cleaning, conversion, application of data mining techniques and evaluation. The implementation will be done in the Python programming language using the tools/libraries such us jupyter notebook, pandas, gensim and SciKit Learn.
 
-Check it here: [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spympr/Classification-Clustering/blob/main/Data_Mining_Project_2.ipynb)
+Check it here: [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spympr/Classification-Clustering/blob/master/Data_Mining_Project_2.ipynb)
 
 
 ## Description
