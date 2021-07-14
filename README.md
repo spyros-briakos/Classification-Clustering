@@ -1,5 +1,6 @@
 # Classification-Clustering
 The purpose of this project is to be familiarized with the basic steps of the process followed for the application of data mining techniques, namely: collection, pre-processing/cleaning, conversion, application of data mining techniques and evaluation. The implementation will be done in the Python programming language using the tools/libraries such us jupyter notebook, pandas, gensim and SciKit Learn.
+Check it here: [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spympr/Classification-Clustering/blob/main/Data_Mining_Project_2.ipynb)
 
 ## Description
 This work relates to the categorization of text data by news articles. The dataset we have to deal with contains news files in .txt format which belong to 5 categories (business, entertainment, politics, sport, tech). We have been asked to create the following .tsv files (tab separated files), ie files in which the fields of the records are separated by the character '\t' (tab). In each .txt file the first line is the title of their article.  
